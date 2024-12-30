@@ -15,6 +15,12 @@ Im happy to share my os project .This project aims at explaining the basic conce
 
 this is a menu driven program so go through each options without fail.
 <br>
+# How to Run
+<br>
+->First Clone repository
+<br>
+->Run the main.sh File in the terminal or If you have ubuntu setup store and run on it.
+<br>
 
 
 
