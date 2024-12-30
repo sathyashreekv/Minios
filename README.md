@@ -12,14 +12,7 @@ Im happy to share my os project .This project aims at explaining the basic conce
 ->Multithreading (how to create threads and how it will works  with the analogy of quick sort code)
 <br>
 
-# How to open
-<br>
-->First step clone repo and store all the files one folder.
-<br>
-->open the folder using the Ubuntu.
-<br>
-->Run main.sh 
-<br>
+
 this is a menu driven program so go through each options without fail.
 <br>
 
