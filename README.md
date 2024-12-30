@@ -17,9 +17,9 @@ this is a menu driven program so go through each options without fail.
 <br>
 # How to Run
 <br>
-->First Clone repository
+->First Clone repository and store in a folder .Open that folder in Ubuntu .
 <br>
-->Run the main.sh File in the terminal or If you have ubuntu setup store and run on it.
+->Run the main.sh File 
 <br>
 
 
