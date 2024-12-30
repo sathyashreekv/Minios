@@ -1,0 +1,6 @@
+Games Using Shell Scripting
+Shell scripting is a command-line tool used to automate tasks and run commands in 
+Unix-based systems.They are primarily used for automation and system management. 
+It can also create simple games using 'echo' for output, 'read' for input, 'if' 
+statements for decisions. Shell scripting games are straightforward, 
+making it easy to learn syntax and logical flow.
