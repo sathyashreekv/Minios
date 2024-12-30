@@ -1,4 +1,4 @@
-#Minios -An Interactive OS Toolkit .
+# Minios -An Interactive OS Toolkit .
 Im happy to share my os project .This project aims at explaining the basic concepts 
 <br>
 ->Shell script basics via Games 
